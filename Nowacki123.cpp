@@ -14,7 +14,7 @@ int main()
 {
 	int *tab, n;
 	
-	cout<<"Wybierz liczby do posortowania ";
+	cout<<"Select the numbers to sort";
 	cin>>n;
 	
 	tab = new int [n]; 
